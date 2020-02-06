@@ -1,5 +1,5 @@
 ---
-title: "The Greatest People You Will Ever Meet"
+title: "Straight From America's Heartland"
 output:
   html_document:
     toc: false

@@ -6,7 +6,7 @@ navbar:
     - text: "Straight From America's Heartland"
       icon: fa-home
       href: index.html
-    - text: "About Me"
+    - text: "The Greatest People You Will Ever Meet"
       icon: fa-user-check
       href: about.html
     - text: "Spill the Tea"
